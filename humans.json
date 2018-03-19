@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Paul John M. Batuigas",
+    "age": "22",
+    "foods": {
+      "likes": ["Tuna", "Ampalaya"],
+      "dislikes": ["Luy-ah","Sayute"]
+    }
+  },
+  {
+    "name": "Nathan Drake",
+    "age": "28",
+    "foods": {
+      "likes": ["Pusit", "Isda"],
+      "dislikes": ["Tae","Igit"]
+    }
+  },
+  {
+    "name": "Tsubasa Amami",
+    "age": "27",
+    "foods": {
+      "likes": ["Oten", "Itlog"],
+      "dislikes": ["3 inch","Baho"]
+    }
+  }
+]
